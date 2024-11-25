@@ -5,11 +5,11 @@ import MainStackNavigator from './StackNavigator';
 
 export default function App() {
   return (
-  <NavigationContainer>
-    <MainStackNavigator>
-      
-    </MainStackNavigator>
-  </NavigationContainer>
+
+
+  <NavigationContainer> 
+   <BottomTabNavigator />
+ </NavigationContainer>
   );
 }
 
