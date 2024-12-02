@@ -1,12 +1,12 @@
 import React from 'react';
 import {createStackNavigator} from '@react-navigation/stack';
-import Home from './screens/Home2';
-import About from './screens/About2';
+import Home from './screens/Home2.js';
+import About from './screens/About2.js';
 
 const Stack = createStackNavigator();
 const screenOptionStyle={
     headerStyle : {
-        backgroundColor: '#FF6247'
+        backgroundColor: '#384053'
     },
     headerTintColor: 'white'
 }
