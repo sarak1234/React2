@@ -1,0 +1,24 @@
+[{
+    "id":"1",
+    "name":"Iphone 16 pro max",
+    "catgory":"telephone",
+    "price":"1270$",
+    "image":"",
+    "desc":"Iphone 16 pro max is a phone that costs 1270$"
+},
+{
+    "id":"2",
+    "name":"Samsung Note 20",
+    "catgory":"telephone",
+    "price":"990$",
+    "image":"",
+    "desc":"Samsung Note 20 is a phone that costs 990$"
+},
+{
+    "id":"3",
+    "name":"Ipad 2 pro",
+    "catgory":"telephone",
+    "price":"780$",
+    "image":"",
+    "desc":"Ipad 2 pro is an ipad that costs 780$"
+}]
